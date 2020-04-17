@@ -1,3 +1,5 @@
+<h1>Pig Game - HTML/CSS/JavaScript</h1>
+
 Game was made as part of 'JavaScript Complete Course 2020'
 
 
